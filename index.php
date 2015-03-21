@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jesus
- * Date: 10/21/14
- * Time: 4:50 PM
- */
+
 require_once("../Easy/vistas/header.php");
 ?>
 		<div class="main-content">

@@ -1,0 +1,222 @@
+[21-Oct-2014 16:41:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/chamoygz/public_html/easyorder/index.php:2) in /home/chamoygz/public_html/easyorder/Proyecto-easyorder/header.php on line 3
+[21-Oct-2014 16:41:00 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/chamoygz/public_html/easyorder/index.php:2) in /home/chamoygz/public_html/easyorder/Proyecto-easyorder/header.php on line 3
+[21-Oct-2014 18:35:59 America/Chicago] PHP Warning:  require_once(../modules/database.php): failed to open stream: No such file or directory in /home/chamoygz/public_html/easyorder/vistas/header.php on line 8
+[21-Oct-2014 18:35:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../modules/database.php' (include_path='.:/opt/php54/lib/php') in /home/chamoygz/public_html/easyorder/vistas/header.php on line 8
+[21-Oct-2014 18:36:30 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'chamoygz_easyorder'@'localhost' (using password: YES) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[21-Oct-2014 18:37:25 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'chamoygz_easyorder'@'localhost' (using password: YES) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[21-Oct-2014 18:37:38 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'chamoygz_easyorder'@'localhost' (using password: YES) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[21-Oct-2014 18:37:39 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'chamoygz_easyorder'@'localhost' (using password: YES) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[21-Oct-2014 18:38:18 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'chamoygz_eoadmn'@'localhost' (using password: YES) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:38:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:40:54 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:41:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 27
+[21-Oct-2014 18:42:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:42:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:16 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/chamoygz/public_html/easyorder/modules/database.php on line 28
+[21-Oct-2014 18:43:38 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:44:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:44:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:44:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:44:06 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:45:50 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:46:23 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:48:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:48:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:48:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:48:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 12
+[21-Oct-2014 18:49:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:49:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:49:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:49:26 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:53:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:53:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:53:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:53:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:33 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:54:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:55:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:55:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:55:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:55:24 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:58:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:58:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:58:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 18:58:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:28 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:42 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:00:47 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[21-Oct-2014 19:01:18 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 16
+[07-Nov-2014 13:44:41 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:44:47 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:44:49 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:44:49 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:01 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:02 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:05 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:22 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:55 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:56 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:57 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:45:58 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:46:24 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:46:27 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:46:28 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:30 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:32 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:33 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:35 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:36 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:36 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:46 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:46 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:47 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:59 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:59 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:47:59 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:00 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:00 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:01 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:20 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:20 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:48:21 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:49:57 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[07-Nov-2014 13:50:43 America/Chicago] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/chamoygz/public_html/easyorder/modules/database.php on line 8
+[08-Nov-2014 22:50:11 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 31
+[08-Nov-2014 22:50:43 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home/chamoygz/public_html/easyorder/modules/get_food.php on line 31
+[08-Nov-2014 23:09:24 America/Chicago] PHP Warning:  require_once(modules/modal.php): failed to open stream: No such file or directory in /home/chamoygz/public_html/easyorder/index.php on line 28
+[08-Nov-2014 23:09:24 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'modules/modal.php' (include_path='.:/opt/php54/lib/php') in /home/chamoygz/public_html/easyorder/index.php on line 28
+[08-Nov-2014 23:10:24 America/Chicago] PHP Warning:  require_once(modules/modal.php): failed to open stream: No such file or directory in /home/chamoygz/public_html/easyorder/index.php on line 28
+[08-Nov-2014 23:10:24 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'modules/modal.php' (include_path='.:/opt/php54/lib/php') in /home/chamoygz/public_html/easyorder/index.php on line 28
+[09-Nov-2014 09:26:32 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:33:40 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:33:46 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:34:01 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:34:19 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:35:05 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:35:19 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:35:50 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:36:21 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:36:39 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:36:54 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:37:07 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:37:21 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:37:48 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:38:08 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:38:17 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:38:28 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
+[09-Nov-2014 09:38:51 America/Chicago] PHP Fatal error:  Call to undefined function phprequire_once() in /home/chamoygz/public_html/easyorder/index.php on line 27
